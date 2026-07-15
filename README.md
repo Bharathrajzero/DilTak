@@ -1,6 +1,6 @@
 # DilTak PDF Editor
 
-A fully functional PDF editing web application built with Next.js 14, React 18, TypeScript, and Tailwind CSS. Edit, merge, split, compress, convert, and OCR PDFs entirely in your browser — no external services required.
+A fully functional PDF editing web application built with Next.js 14, React 18, TypeScript, and Tailwind CSS. Edit, merge, split, compress, convert, and OCR PDFs entirely in your browser - no external services required.
 
 ---
 ## Screenshots
