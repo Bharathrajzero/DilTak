@@ -169,6 +169,11 @@ del /q storage\edited\*
 
 Chrome 90+, Firefox 88+, Safari 14+, Edge 90+
 
-## License
+---
+##  Author
+Bharath Raj
+GitHub: https://github.com/Bharathrajzero
 
-MIT License
+---
+## License
+This project is licensed under the MIT License © 2026 Bharath Raj, AlphaGroup.
