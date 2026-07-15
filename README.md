@@ -32,6 +32,7 @@ A fully functional PDF editing web application built with Next.js 14, React 18, 
   <img width="49%" alt="73" src="https://github.com/user-attachments/assets/a70afb75-635a-494e-a160-83f4d4474161" />
   <img width="49%" alt="78" src="https://github.com/user-attachments/assets/0845be18-7d99-4fa3-8d3c-0cc8642e1b76" />
 </div>
+
 ---
 ## Features
 
